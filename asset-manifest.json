@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Codecademy/static/css/main.744f1a0b.chunk.css",
+    "main.js": "/React-Codecademy/static/js/main.44c54a3c.chunk.js",
+    "main.js.map": "/React-Codecademy/static/js/main.44c54a3c.chunk.js.map",
+    "runtime~main.js": "/React-Codecademy/static/js/runtime~main.82bc0d12.js",
+    "runtime~main.js.map": "/React-Codecademy/static/js/runtime~main.82bc0d12.js.map",
+    "static/js/2.2668f2aa.chunk.js": "/React-Codecademy/static/js/2.2668f2aa.chunk.js",
+    "static/js/2.2668f2aa.chunk.js.map": "/React-Codecademy/static/js/2.2668f2aa.chunk.js.map",
+    "index.html": "/React-Codecademy/index.html",
+    "precache-manifest.a66a719050ca01ebc3ac1747f3a51cfd.js": "/React-Codecademy/precache-manifest.a66a719050ca01ebc3ac1747f3a51cfd.js",
+    "service-worker.js": "/React-Codecademy/service-worker.js",
+    "static/css/main.744f1a0b.chunk.css.map": "/React-Codecademy/static/css/main.744f1a0b.chunk.css.map",
+    "static/media/SearchBar.css": "/React-Codecademy/static/media/background_search_mobile.5d0905e6.jpg"
+  }
+}
