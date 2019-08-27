@@ -1,3 +1,4 @@
+# Yelp Search API Practice
 
-Codecademy project - React;
+One of the exercises from Codecademy web development course.
 
